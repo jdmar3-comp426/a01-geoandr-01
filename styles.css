@@ -1,0 +1,45 @@
+body {
+    background-color: aquamarine;
+}
+.blue {
+    background-color: #0000fe;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100;
+    height: 200;
+}
+.red {
+    background-color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+    width: 200;
+    height: 50;
+}
+#red {
+    background-color: #ff0000;
+    font-family: 'Times New Roman', Times, serif;
+}
+.yellow {
+    background-color: yellow;
+    border-style: dashed;
+}
+.brown {
+    background-color: brown;
+    border-style: groove;
+}
+a:hover {
+    background-color: chartreuse;
+}
+.orange {
+    background-color: orange;
+}
+.green {
+    background-color: green;
+}
+.grey {
+    background-color: grey;
+}
+.purple {
+    background-color: purple;
+}
+.pink {
+    background-color: pink;
+}
