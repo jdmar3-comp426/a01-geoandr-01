@@ -20,6 +20,10 @@ body {
     background-color: chocolate;
 }
 
+div p {
+    background-color: coral;
+}
+
 #red {
     background-color: #ff0000;
     font-family: 'Times New Roman', Times, serif;
